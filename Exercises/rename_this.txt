@@ -1,0 +1,9 @@
+This file contains measurements of morphological traits of mulitple individuals
+of the species "Testing species".
+
+The specimens were collected in Wallace county, Kansas, USA, on November 12, 
+2022, for the projec Morphological adaptations of "Testing species" in the 
+Great Plains (MATSGP).
+
+The file was generated on January 30, 2023. Later modified on March 13, 2023
+
